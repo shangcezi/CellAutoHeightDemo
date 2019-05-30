@@ -5,4 +5,4 @@ tableViewCell 输入框高度自适应 comment
 <image src = https://github.com/shangcezi/CellAutoHeightDemo/blob/master/C40DE3A44AC00CCD4770F16C43664265.png width= "375" height = "667">
 
 点击之后 \n
-![image](https://github.com/shangcezi/CellAutoHeightDemo/blob/master/5C6DDADB199E1A6B70A2E280BEA7E3B5.png)
+![image](https://github.com/shangcezi/CellAutoHeightDemo/blob/master/5C6DDADB199E1A6B70A2E280BEA7E3B5.png width= "375" height = "667")
